@@ -1,0 +1,14 @@
+[
+  {
+    "noteId\tparticipantId\tcreatedAtMillis\ttweetId\tclassification\tbelievable\tharmful\tvalidationDifficulty\tmisleadingOther\tmisleadingFactualError\tmisleadingManipulatedMedia\tmisleadingOutdatedInformation\tmisleadingMissingImportantContext\tmisleadingUnverifiedClaimAsFact\tmisleadingSatire\tnotMisleadingOther\tnotMisleadingFactuallyCorrect\tnotMisleadingOutdatedButNotWhenWritten\tnotMisleadingClearlySatire\tnotMisleadingPersonalOpinion\ttrustworthySources\tsummary": "1352796878438424576\t6B6171E803FBBF58397EC4A0AF76A2FF\t1611366884227\t1352796618504892420\tMISINFORMED_OR_POTENTIALLY_MISLEADING\tBELIEVABLE_BY_MANY\tLITTLE_HARM\tEASY\t0\t0\t0\t1\t1\t0\t0\t0\t0\t0\t0\t0\t1\tThis Tweet is partially true",
+    "null": [
+      " but misleading. A look at the city archives shows that the image in the Tweet actually comes from a planned april fools day prank.    Here\u2019s the city hall press release in the archives: http://officialsource...   "
+    ]
+  },
+  {
+    "noteId\tparticipantId\tcreatedAtMillis\ttweetId\tclassification\tbelievable\tharmful\tvalidationDifficulty\tmisleadingOther\tmisleadingFactualError\tmisleadingManipulatedMedia\tmisleadingOutdatedInformation\tmisleadingMissingImportantContext\tmisleadingUnverifiedClaimAsFact\tmisleadingSatire\tnotMisleadingOther\tnotMisleadingFactuallyCorrect\tnotMisleadingOutdatedButNotWhenWritten\tnotMisleadingClearlySatire\tnotMisleadingPersonalOpinion\ttrustworthySources\tsummary": "1352797062899789824\t0466BA47B23AAAB301AA767C4C780E8D\t1611366928207\t1352796618504892420\tMISINFORMED_OR_POTENTIALLY_MISLEADING\tBELIEVABLE_BY_MANY\tLITTLE_HARM\tCHALLENGING\t0\t0\t0\t1\t0\t1\t0\t0\t0\t0\t0\t0\t1\tThis is an actual photo",
+    "null": [
+      " but from an April Fools day joke the city played last year. No sparkling water soon. See the city paper\u2019s coverage of the joke: http://localnewssource..."
+    ]
+  }
+]
