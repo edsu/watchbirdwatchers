@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 
-import csv
 import sys
 import json
 import fileinput
 
+cols = None
 objects = []
 
-for row in csv.DictReader(fileinput.input()):
-    obj = {}
-    for key, val in row.items():
-        obj[key] = val
-    objects.append(obj)
+for line in fileinput.input():
+    row = line.split("\t")
+    if not cols:
+        cols = row
+    else:
+        objects.append(dict(zip(cols, row)))
 
 print(json.dumps(objects, indent=2))
 
